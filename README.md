@@ -1,4 +1,4 @@
-# Tron Quickstart (Docker image)
+# Tron Quickstart (Docker image) - fork with current Fullnode (GreatVoyager-v4.0.1)
 
 __The purpose of it is to set up a complete private network for Tron development.__
 
